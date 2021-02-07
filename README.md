@@ -1,37 +1,24 @@
-# Atago Website
+# FS0c13ty website
 
-Atago is created for collecting waifus and for welcoming users to your own server! 
-Not only that, Atago can announce members who boosts the server with your own custom message!
+[![GitHub issues](https://img.shields.io/github/issues/fs0c13ty-r0b0t/FS0c13ty-website.svg)](https://github.com/fs0c13ty-r0b0t/FS0c13ty-website/issues)
+[![GitHub stars](https://img.shields.io/github/stars/fs0c13ty-r0b0t/FS0c13ty-website.svg)](https://github.com/fs0c13ty-r0b0t/FS0c13ty-website/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/fs0c13ty-r0b0t/FS0c13ty-website.svg)](https://github.com/fs0c13ty-r0b0t/FS0c13ty-website/network)
 
+A discord bot made to help you in moderation.<br>
+Need help? Join our discord server: [https://discord.gg/nEDcagb](https://discord.gg/nEDcagb)
 
-Features:
+---
 
-- About Page
+## Meta
 
-- Home Page
+LucasAlt – [@LucasCtrlAlt](https://twitter.com/lucasctrlalt) – lucasalt@protonmail.com
 
-- Card Page
+Distributed under the GNU AGPL v3.0 license. See [`LICENSE`](https://github.com/fs0c13ty-r0b0t/FS0c13ty-website/blob/dev/LICENSE) for more information.
 
-- Documentation
+## Contributing
 
-Home:
-![home](https://i.imgur.com/JvThQjl.png)
-
-About:
-![about](https://i.imgur.com/qoLjoeN.png)
-
-Card:
-![card](https://i.imgur.com/S1X0aDJ.png)
-
-Documentation:
-![docs](https://i.imgur.com/wlOCokg.png)
-
-Contact:
-
-Discord: Sureiyā#3654
-
-Gmail: sureiyahigo@gmail.com
-
-
-
-© Sureiya
+1. Fork it (<https://github.com/fs0c13ty-r0b0t/FS0c13ty-website/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
